@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nuchange/static/css/main.aaeb3582.css",
+    "main.js": "/Nuchange/static/js/main.7d51b9ec.js",
+    "index.html": "/Nuchange/index.html",
+    "main.aaeb3582.css.map": "/Nuchange/static/css/main.aaeb3582.css.map",
+    "main.7d51b9ec.js.map": "/Nuchange/static/js/main.7d51b9ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaeb3582.css",
+    "static/js/main.7d51b9ec.js"
+  ]
+}
